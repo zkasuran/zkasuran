@@ -55,5 +55,5 @@ AI-assisted and agent-driven. `vibe-terminal` is the tooling I built for exactly
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zkasuran&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkasuran&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&hide=jupyter%20notebook,c%2B%2B,julia" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkasuran&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&hide=jupyter%20notebook,c%2B%2B,julia,html,css" alt="Top languages" />
 </div>
