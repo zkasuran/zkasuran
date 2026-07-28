@@ -1,45 +1,20 @@
-<div align="center">
+# Hi, I'm Asuran 💻✨
+<br>🤖 Building agent tooling and dev infrastructure<br>🏆 unitaryHACK 2026 #1 contributor: 7 bounties merged across 6 quantum open-source projects<br>🚀 Growing through open-source contributions, currently shipping on the [Monad Open Source Track](https://most.devnads.com/)<br>🪄 Working AI-assisted and building the tooling for it, AI help disclosed wherever a project asks
 
-  <img src="./assets/banner.png" alt="asuran — agent tooling, dev infra, open source" width="100%" />
 
-  ### Python + Node.js engineer · open-source contributor
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zkasuran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zkasuran@gmail.com)
 
-  I build agent tooling and developer infrastructure, and ship it to open source.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  [![X](https://img.shields.io/badge/X-@zkasuran-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zkasuran)
-  [![Email](https://img.shields.io/badge/Email-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zkasuran@gmail.com)
+# 🚀 Featured:
+- **[vibe-terminal](https://github.com/zkasuran/vibe-terminal)** — route any model through any CLI, a cost-routing layer for terminal coding agents
+- **[bitget-agentbench](https://github.com/zkasuran/bitget-agentbench)** — backtest, score and risk-guard AI trading agents on real candle data
+- **[cmc-leverage-divergence](https://github.com/zkasuran/cmc-leverage-divergence)** — funding-confirmed momentum strategy with a deflated-Sharpe backtest
+- **Merged upstream** — [quimb](https://github.com/jcmgray/quimb/pull/371) · [KQCircuits](https://github.com/iqm-finland/KQCircuits/pull/143) · [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl/pull/110) · [mitiq](https://github.com/unitaryfoundation/mitiq/pull/3041) · [qiskit-braket-provider](https://github.com/amazon-braket/qiskit-braket-provider/pull/333)
 
-</div>
-
----
-
-- 🏆 **unitaryHACK 2026, #1 contributor** — finished top of the [official leaderboard](https://unitaryhack.dev/leaderboard/) (85 hackers, 165 bounties closed) with 7 bounties across 6 quantum open-source projects: [quimb](https://github.com/jcmgray/quimb/pull/371), [IQM's KQCircuits](https://github.com/iqm-finland/KQCircuits/pull/143), [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl/pull/110), [Unitary Foundation's mitiq](https://github.com/unitaryfoundation/mitiq/pull/3041), [Amazon Braket's Qiskit provider](https://github.com/amazon-braket/qiskit-braket-provider/pull/333) and the [marqov SDK](https://github.com/marqov-dev/marqov-sdk/pull/44), all merged.
-- 🌱 **Open source** — more in review at [QuEST](https://github.com/QuEST-Kit/QuEST/pull/785), [zk-kit](https://github.com/zk-kit/zk-kit/pull/420) and [Circle's arc-node](https://github.com/circlefin/arc-node/pull/127). Currently shipping across the [Monad Open Source Track](https://most.devnads.com/) pool repos ([open PRs](https://github.com/search?q=author%3Azkasuran+is%3Apr+is%3Aopen&type=pullrequests)).
-- 🤖 **Focus** — agent and LLM tooling. Route any model through any CLI, backtest AI trading agents, automate workflows.
-- 🪄 **Vibecoding** — I work AI-assisted and build the tooling for it. [`vibe-terminal`](https://github.com/zkasuran/vibe-terminal) is a cost-routing layer that lets terminal coding agents switch model backends without switching tools.
-- 🛠️ **Building in the open** — Python and Node.js, the project's own tests green before merge, AI help disclosed wherever a project asks for it.
-
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[vibe-terminal](https://github.com/zkasuran/vibe-terminal)** | Route any model through any CLI. A cost-routing orchestration layer for terminal coding agents. | Python |
-| **[bitget-agentbench](https://github.com/zkasuran/bitget-agentbench)** | Backtest, score and risk-guard AI trading agents on real candle data. Reproducible scorecard, zero API keys. | Node · TypeScript |
-| **[cmc-leverage-divergence](https://github.com/zkasuran/cmc-leverage-divergence)** | A funding-confirmed momentum strategy with a multi-asset, deflated-Sharpe backtest. | Node · TypeScript |
-| **[asuranity](https://github.com/zkasuran/asuranity)** | Universal blockchain vanity address generator supporting 50+ networks. | Node · JavaScript |
-
-## 🛠️ Stack
-
-**Languages** — Python · TypeScript · JavaScript (Node.js) · Solidity · Rust · Julia
-**Backend & tooling** — FastAPI · asyncio · pytest · Playwright · Foundry · Docker · Git/CI
-**Domains** — LLM & agent orchestration · backtesting · automation · open-source contribution
-
----
-
-<div align="center">
-
-Building in the open. Open to open-source collaboration.
-
-[**@zkasuran**](https://x.com/zkasuran) · [Email](mailto:zkasuran@gmail.com)
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zkasuran&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=zkasuran&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zkasuran&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
