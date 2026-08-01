@@ -20,12 +20,19 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zkasuran&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🙏 Support the work:
-Everything I ship is open source and free. If something here saved you time, a tip keeps the lights on.
+Everything I ship is open source and free. If something here saved you time, a tip keeps the lights on. Hover a block and hit the copy icon.
 
-| Chain | Address |
-| --- | --- |
-| EVM (Ethereum, Base, Monad, any EVM L2) | `0x6aAF38274063233044095F27392BCD41aF3921f7` |
-| Solana | `9HwLcjYeN2gPjRGwD98pyaXtoWkbgKqvPrHuAkMvtCx5` |
+**EVM** (Ethereum, Base, Monad, any EVM L2)
+
+```
+0x6aAF38274063233044095F27392BCD41aF3921f7
+```
+
+**Solana**
+
+```
+9HwLcjYeN2gPjRGwD98pyaXtoWkbgKqvPrHuAkMvtCx5
+```
 
 Any token on those networks is welcome. Please double check the address in your wallet before sending, and never send to a chain the address does not support.
 
