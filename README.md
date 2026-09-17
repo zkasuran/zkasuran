@@ -49,10 +49,9 @@ Currently shipping on the [Monad Open Source Track](https://most.devnads.com/).
 </tr>
 </table>
 
-**unitaryHACK 2026, ranked #1.** Seven bounty PRs across seven quantum projects, six
-merged upstream. The work spanned superconducting-chip layout, Pauli-string algebra,
-tensor networks, error mitigation, distributed state-vector simulation and a cloud
-provider backend.
+**unitaryHACK 2026, ranked #1.** Six merged pull requests across six quantum projects.
+The work spanned superconducting-chip layout, Pauli-string algebra, tensor networks,
+error mitigation and a cloud provider backend.
 
 **MiniMaxathon, Multimodality track winner.** [Overhear](https://github.com/zkasuran/overhear)
 turns a topic into a two-host audio episode with an original theme song. One model family
