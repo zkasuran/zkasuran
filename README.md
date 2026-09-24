@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="asuran. Agent tooling, dev infra, open source." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" alt="asuran. Agent tooling, dev infra, open source." width="100%">
+</picture>
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zkasuran)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zkasuran)
@@ -40,6 +44,12 @@ no payment credentials are present.
 `Python` `TypeScript` `Rust` `Solidity` `Julia` · `Node` `React` `FastAPI` `Docker` · `pytest` `Playwright` `GitHub Actions`
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkasuran/zkasuran/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkasuran/zkasuran/output/github-snake.svg">
+  <img alt="My contribution graph, played as a snake" src="https://raw.githubusercontent.com/zkasuran/zkasuran/output/github-snake-dark.svg" width="100%">
+</picture>
 
 ![](https://github-readme-stats.shion.dev/api?username=zkasuran&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zkasuran&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
