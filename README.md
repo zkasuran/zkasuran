@@ -19,6 +19,8 @@ disclosed wherever a project asks.
 | :-- | :-- | :-- |
 | 🥇 | **unitaryHACK 2026**, Unitary Foundation | Ranked **#1**. Six merged PRs across six quantum projects, $745 in bounties. |
 | 🥇 | **MiniMaxathon**, MiniMax x GMI Cloud | Won the Multimodality track with [Overhear](https://github.com/zkasuran/overhear), a topic to two-host audio episode generator. |
+| 🥇 | **Bug Smash**, DEV x Sentry | Won **Best Use of Sentry** for a real telemetry bug in Sentry's own Python SDK ([writeup](https://dev.to/zkasuran/sentrys-trace-said-gemini-flash-latest-google-served-gemini-36-flash-2j7a)). $500 and a limited-edition Sentry skateboard. |
+| 🥈 | **Tiun x Microlaunch** | **2nd** with [Margyn](https://github.com/zkasuran/margyn), a test-suite auditor that scores your tests instead of your code. $1,500. |
 | 🥉 | **Ready, Spec, Ship**, Kiro | 3rd with [testrazor](https://github.com/zkasuran/testrazor), a change-aware CI test gate. |
 
 ### Selected work
@@ -32,15 +34,6 @@ checked against each other for byte-identical output.
 A marketplace for hiring ERC-8004 agents on BNB Smart Chain. 341,235 agents indexed, on-chain
 feedback read per listing, wallet-signed hire flow. Settles EIP-3009 authorizations itself when
 no payment credentials are present.
-
-### Merged upstream
-
-[quimb #371](https://github.com/jcmgray/quimb/pull/371) ·
-[KQCircuits #143](https://github.com/iqm-finland/KQCircuits/pull/143) ·
-[PauliStrings.jl #110](https://github.com/nicolasloizeau/PauliStrings.jl/pull/110) ·
-[mitiq #3041](https://github.com/unitaryfoundation/mitiq/pull/3041) ·
-[qiskit-braket-provider #333](https://github.com/amazon-braket/qiskit-braket-provider/pull/333) ·
-[marqov-sdk #44](https://github.com/marqov-dev/marqov-sdk/pull/44)
 
 ### Stack
 
