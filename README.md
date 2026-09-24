@@ -41,7 +41,7 @@ no payment credentials are present.
 
 ### Stack
 
-`Python` `TypeScript` `Rust` `Solidity` `Julia` · `Node` `React` `FastAPI` `Docker` · `pytest` `Playwright` `GitHub Actions`
+`Python` `TypeScript` `JavaScript` `Rust` `Solidity` · `Node` `React` `FastAPI` `Docker` · `pytest` `Playwright` `GitHub Actions`
 
 <div align="center">
 
