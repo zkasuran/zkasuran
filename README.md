@@ -22,6 +22,8 @@ disclosed wherever a project asks.
 | | Program | Result |
 | :-- | :-- | :-- |
 | 🥇 | **unitaryHACK 2026**, Unitary Foundation | Ranked **#1**. Six merged PRs across six quantum projects, $745 in bounties. |
+| 🥇 | **Telegraph Hackathon Season I** | **1st** in the scorers track with [telegraph-salience-scorer](https://github.com/zkasuran/telegraph-salience-scorer), a from-scratch no_std Rust and WebAssembly module the node runs to rank oracle miners across Telegraph's canonical intents on Base Sepolia. |
+| 🥇 | **Weekend Challenge: Generosity Edition**, DEV | Overall winner with [Keepalive](https://github.com/zkasuran/keepalive), which computes months of cash runway for 579,178 US nonprofits straight off their IRS filings and ranks where a gift buys the most time. DEV++ and a winner badge. [live](https://keepalive.zkasuran.dev) |
 | 🥇 | **MiniMaxathon**, MiniMax x GMI Cloud | Won the Multimodality track with [Overhear](https://github.com/zkasuran/overhear), a topic to two-host audio episode generator. $500 cash, three months of MiniMax Max and $200 in GMI credits. |
 | 🥇 | **Bug Smash**, DEV x Sentry | Won **Best Use of Sentry** for a real telemetry bug in Sentry's own Python SDK ([writeup](https://dev.to/zkasuran/sentrys-trace-said-gemini-flash-latest-google-served-gemini-36-flash-2j7a)). $500 and a limited-edition Sentry skateboard. |
 | 🥈 | **Tiun x Microlaunch** | **2nd** with [Margyn](https://github.com/zkasuran/margyn), a test-suite auditor that scores your tests instead of your code. $1,500. |
