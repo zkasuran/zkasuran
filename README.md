@@ -29,17 +29,10 @@ disclosed wherever a project asks.
 | 🥈 | **Tiun x Microlaunch** | **2nd** with [Margyn](https://github.com/zkasuran/margyn), a test-suite auditor that scores your tests instead of your code. $1,500. |
 | 🥉 | **Ready, Spec, Ship**, Kiro | 3rd with [testrazor](https://github.com/zkasuran/testrazor), a change-aware CI test gate. A one-year Kiro Pro Max subscription, worth $1,000. |
 
-### Selected work
+### Featured work
 
-**[TinyLang](https://github.com/zkasuran/TinyLang)** · [live](https://zkasuran.github.io/TinyLang)<br>
-A language toolchain in TypeScript: tree-walk interpreter, 63-opcode bytecode VM, WebAssembly
-target, debugger, formatter, linter, test runner, browser IDE. 1003 tests, with the backends
-checked against each other for byte-identical output.
-
-**[Muster](https://github.com/zkasuran/muster)** · [live](https://muster.zkasuran.dev)<br>
-A marketplace for hiring ERC-8004 agents on BNB Smart Chain. 341,235 agents indexed, on-chain
-feedback read per listing, wallet-signed hire flow. Settles EIP-3009 authorizations itself when
-no payment credentials are present.
+**[gmi](https://github.com/zkasuran/gmi)** · [release 1.0.1](https://github.com/zkasuran/gmi/releases/tag/v1.0.1) · [official GMI posts](https://github.com/zkasuran/gmi#built-in-public-with-gmi-cloud)<br>
+A community command line for GMI Cloud, built in public during a six-day takeover of GMI's official X account. It chats with any model GMI serves and generates images and video. It has a command for each of the 93 GMI API operations plus sandboxes. It also runs an MCP server that lets agents use GMI as tools. One-line install, Apache-2.0, 300 offline tests, four outside pull requests with two merged.
 
 ### Stack
 
