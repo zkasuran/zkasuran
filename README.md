@@ -29,6 +29,8 @@ disclosed wherever a project asks.
 | 🥈 | **Tiun x Microlaunch** | **2nd** with [Margyn](https://github.com/zkasuran/margyn), a test-suite auditor that scores your tests instead of your code. $1,500. |
 | 🥉 | **Ready, Spec, Ship**, Kiro | 3rd with [testrazor](https://github.com/zkasuran/testrazor), a change-aware CI test gate. A one-year Kiro Pro Max subscription, worth $1,000. |
 
+I am a GMI Cloud Clouder (community ambassador). My projects for GMI are community built and are not official GMI Cloud products.
+
 ### Featured work
 
 **[gmi](https://github.com/zkasuran/gmi)** · [release 1.0.1](https://github.com/zkasuran/gmi/releases/tag/v1.0.1) · [official GMI posts](https://github.com/zkasuran/gmi#built-in-public-with-gmi-cloud)<br>
