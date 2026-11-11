@@ -21,6 +21,7 @@ disclosed wherever a project asks.
 
 | | Program | Result |
 | :-- | :-- | :-- |
+| 🥇 | **Metropolis**, Monad | Won **Best Integration of Cleanverse Verified Identity & Assets**, the Cleanverse bounty, with [Kanmani](https://github.com/zkasuran/kanmani), the settlement and trust layer for agent work on Monad. Its compliance gate will not release escrowed money to a wallet without a Cleanverse Verified Identity. $2,000. [live](https://kanmani.xyz) |
 | 🥇 | **unitaryHACK 2026**, Unitary Foundation | Ranked **#1**. Six merged PRs across six quantum projects, $745 in bounties. |
 | 🥇 | **Telegraph Hackathon Season I** | **1st** in the scorers track with [telegraph-salience-scorer](https://github.com/zkasuran/telegraph-salience-scorer), a from-scratch no_std Rust and WebAssembly module the node runs to rank oracle miners across Telegraph's canonical intents on Base Sepolia. |
 | 🥇 | **Weekend Challenge: Generosity Edition**, DEV | Overall winner with [Keepalive](https://github.com/zkasuran/keepalive), which computes months of cash runway for 579,178 US nonprofits straight off their IRS filings and ranks where a gift buys the most time. DEV++ and a winner badge. [live](https://keepalive.zkasuran.dev) |
